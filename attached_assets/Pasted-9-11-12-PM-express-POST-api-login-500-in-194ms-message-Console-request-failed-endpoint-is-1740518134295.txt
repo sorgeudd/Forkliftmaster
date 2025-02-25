@@ -1,0 +1,26 @@
+9:11:12 PM [express] POST /api/login 500 in 194ms :: {"message":"Console request failed: endpoint is…
+9:11:19 PM [express] POST /api/register 500 in 207ms :: {"message":"Registration failed"}
+9:11:20 PM [express] POST /api/register 500 in 189ms :: {"message":"Registration failed"}
+9:11:20 PM [express] POST /api/register 500 in 172ms :: {"message":"Registration failed"}
+9:11:22 PM [express] POST /api/register 500 in 190ms :: {"message":"Registration failed"}
+9:11:22 PM [express] POST /api/register 500 in 173ms :: {"message":"Registration failed"}
+9:11:23 PM [express] POST /api/register 500 in 191ms :: {"message":"Registration failed"}
+9:11:25 PM [express] POST /api/register 500 in 187ms :: {"message":"Registration failed"}
+9:11:26 PM [express] POST /api/register 500 in 175ms :: {"message":"Registration failed"}
+9:11:26 PM [express] POST /api/register 500 in 188ms :: {"message":"Registration failed"}
+9:11:31 PM [express] POST /api/register 500 in 189ms :: {"message":"Registration failed"}
+9:11:31 PM [express] POST /api/register 500 in 191ms :: {"message":"Registration failed"}
+9:11:32 PM [express] POST /api/register 500 in 187ms :: {"message":"Registration failed"}
+9:11:57 PM [express] GET /api/user 401 in 2ms
+9:12:23 PM [express] POST /api/register 500 in 194ms :: {"message":"Registration failed"}
+9:12:23 PM [express] POST /api/register 500 in 197ms :: {"message":"Registration failed"}
+9:12:24 PM [express] POST /api/register 500 in 188ms :: {"message":"Registration failed"}
+9:12:26 PM [express] POST /api/register 500 in 198ms :: {"message":"Registration failed"}
+9:12:26 PM [express] POST /api/register 500 in 193ms :: {"message":"Registration failed"}
+9:12:27 PM [express] POST /api/register 500 in 191ms :: {"message":"Registration failed"}
+9:12:29 PM [express] POST /api/register 500 in 186ms :: {"message":"Registration failed"}
+9:12:30 PM [express] POST /api/register 500 in 181ms :: {"message":"Registration failed"}
+9:12:30 PM [express] POST /api/register 500 in 191ms :: {"message":"Registration failed"}
+9:12:35 PM [express] POST /api/register 500 in 175ms :: {"message":"Registration failed"}
+9:12:35 PM [express] POST /api/register 500 in 197ms :: {"message":"Registration failed"}
+9:12:36 PM [express] POST /api/register 500 in 184ms :: {"message":"Registration failed"}
